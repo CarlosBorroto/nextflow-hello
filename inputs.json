@@ -1,0 +1,5 @@
+{
+    "debug": true,
+    "license": "dx://project-G2qkVz80G4P58pg8BkZfQ4KB:nextflow-license.txt",
+    "pipeline": "hello/main.nf"
+}
